@@ -1,0 +1,22 @@
+# Defensive Security Intro (TryHackMe)
+
+## Summary
+Write 2–3 sentences summarizing the room.  
+Example: "This room taught me the basics of Linux, including commands such as ls, cd, pwd, mkdir, and file permissions."
+
+## Objectives Completed
+- Understanding why cybersecurity is important, and the consequences of poor security
+- Understanding what a "blue team" is and the roles of those on the team
+- The practical application of defensive security using multiple layers of defense such as security policies, firewalls, and employee training
+- Used a static site to mimic a real attack and how to resolve it using the SOC by blocking the specific IP address completely
+
+## Tools Used
+- Static Site
+
+## Challenges
+- I was confused about how I would go about blocking this attack everything is really new.  
+- I found where the IP address was and blocked it using the SOC admin privileges.
+
+## Key Takeaways
+- How to block a malicious attack from a specific person, prevent similar attacks from the method (not just the user)
+- IP address finding, SOC Navigation for an organization, and website defense
