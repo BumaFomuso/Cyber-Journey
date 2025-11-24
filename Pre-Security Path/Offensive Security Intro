@@ -1,0 +1,22 @@
+# Offensive Security Intro (TryHackMe)
+
+## Summary
+This room taught me how to access the terminal, input command lines, and scan websites for hidden pages.
+
+## Objectives Completed
+- Open the terminal on the VM and scan the website for hidden pages
+- Use the hidden admin page to send myself $2000
+- Understand how the command line brought about the result and real-world applications
+
+## Tools Used
+- Terminal
+- Gobuster
+- Virtual Machine
+
+## Challenges
+- At first, I didn't see the $2000 in my account on the VM and was a little worried.   
+- I'd mistyped some letters in the command line.
+
+## Key Takeaways
+- I learned how to access the terminal, how to input command lines, troubleshoot, and how to use a VM
+- The terminal and VM are probably going to be my best friends from now. Knowing how to access them is a big boon.
