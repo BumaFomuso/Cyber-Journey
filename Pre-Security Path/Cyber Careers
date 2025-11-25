@@ -1,0 +1,22 @@
+# Cyber Careers (TryHackMe)
+
+## Summary
+This room is mainly about the different careers in Cyber and the paths I can take.
+
+## Objectives Completed
+- SOC Analyst: In charge of making security policies and securing the info of the organization working closely with shareholders according to their needs
+- Security Engineer: Using the SOC info they create the backends, firewalls, and controls. They use past info, evolving trends and tactics to design and monitor security measures for the organization.
+- Incident Responder: The first line of defense when an attack is underway. They create defense plans, keeo the money rep, and info of the org intact
+- Digital Forensics Examiner: collect info to determine of policies were broken, and etermine legals.
+- Malware Analyst: They reverse-engineer malware to undertand what it is, what it does, and how to prevent it from doing damage if encountered.
+- Pentester: Ethical hacker essentially. Hack companies to find weakpoints they need to fix.
+- Red Teamer: Similar to pen tester, but they determine the detection and response capabilities. Often external, and these tests can last up to a month plus.
+
+## Tools Used
+- None
+
+## Challenges
+- N/A
+
+## Key Takeaways
+- Career path options I can take and their duties.
