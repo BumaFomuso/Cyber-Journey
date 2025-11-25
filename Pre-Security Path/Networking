@@ -1,0 +1,24 @@
+# Networking (TryHackMe)
+
+## Summary
+This room introduced me to the basics of networking, it's capabilities, and identifying devices over a network
+
+## Objectives Completed
+- Understand what a network is and how devices are connected
+- Understand the difference a private and a public network and how they're interconnected.
+- Learn to identify the difference between an IP and MAC adderess and their unique parts
+- Learning what ping is and how to use it to determine network connectivity and speed
+
+## Tools Used
+- Terminal
+- Ping Command Line
+
+## Challenges
+- N/A  
+- N/A
+
+## Key Takeaways
+- How computers connect to each other and the internet and how to test that connection
+
+## Screenshots / Proof (Optional)
+- Add screenshots of commands or lab results
